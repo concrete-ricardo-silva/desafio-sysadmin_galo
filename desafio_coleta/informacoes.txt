@@ -1,0 +1,20 @@
+1) Olá, eu sou o Sr siripi pibous, adm da Galo Corp meu antigo sysadmin Jailson Mendes me deixou um arquivo de coleta da sua última ANALise com vmstat, tentei abrir o arquivo no excel, porém não tive sucesso, podem me ajudar?
+
+Ele deixou a seguinte descrição:
+
+"Oi chefe, que delicia de analise, pra converter isso acho que (grep, cut, tr, resolve ahh ahhh q delicia cara!)
+
+O arquivo que preciso, deve estar no seguinte formato:
+
+0,0,0,227508,289044,2954724,0,0,20,76,2673,10608,7,14,79,0,0,2018-04-24,18:45:45
+0,0,0,227540,289044,2954732,0,0,0,0,3239,11780,6,18,76,0,0,2018-04-24,18:45:46
+0,0,0,227508,289060,2954668,0,0,0,160,2130,9956,4,13,83,0,0,2018-04-24,18:45:47
+
+Dicas
+
+Estudar oque é CSV
+Exemplos de grep na web
+Exemplos de tr na web
+Uso de pipes
+
+Obrigado
